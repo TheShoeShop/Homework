@@ -1,0 +1,81 @@
+/* Styling the body tag */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  /* Styling the header tag */
+  header {
+    background-color: #4CAF50; /* Light green */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  /* Styling the nav tag */
+  nav {
+    background-color: #333; /* Dark gray */
+    overflow: hidden;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  nav a:hover {
+    background-color: #575757; /* Slightly lighter gray */
+  }
+  
+  /* Styling the main tag */
+  main {
+    background-color: #ffffff; /* White */
+    font-size: 18px;
+    padding: 20px;
+    margin: 10px auto;
+    max-width: 900px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for better visual */
+  }
+  
+  /* Styling the footer tag */
+  footer {
+    background-color: #222; /* Darker gray */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Styling the li tag */
+  li {
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    margin: 5px;
+    list-style: none;
+  }
+  
+  /* Styling the h1 tag */
+  h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #2C3E50; /* Blue-gray */
+  }
+  
+  /* Styling the p tag */
+  p {
+    line-height: 1.8;
+    margin-bottom: 15px;
+    color: #555; /* Medium gray */
+  }
+  
